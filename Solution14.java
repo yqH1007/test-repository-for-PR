@@ -19,6 +19,7 @@ import static org.junit.Assert.*;
  * 输出：["1.0.10.23","1.0.102.3","10.1.0.23","10.10.2.3","101.0.2.3"]
  *
  */
+//1111
 class Solution {
     static final int SEG_COUNT = 4;
     List<String> ans = new ArrayList<String>();
